@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavWithSideBar</string>
+
+    <string name="logout">Logout</string>
+    <string name="wouldyouliketologout">Would you like to logout?</string>
+    <string name="logoutok">LOGOUT</string>
+    <string name="cancel">CANCEL</string>
+</resources>
