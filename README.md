@@ -7,10 +7,10 @@ Material Components)
 
 # Screenshot
 
- <img src="https://user-images.githubusercontent.com/25154589/143825759-77c23dff-4c2e-4d2b-ab25-e194a48ed9ae.png" width="400" />
+ <img src="https://user-images.githubusercontent.com/25154589/143827180-f7d10bac-59fb-49a0-94d2-a4f84f1ba234.png" width="400" />
+ 
 
-
- <img src="https://user-images.githubusercontent.com/25154589/143825806-6929e9bd-8b0d-4a51-b823-d318f0eef60a.png" width="400" />
+ <img src="https://user-images.githubusercontent.com/25154589/143827241-2ec7d870-eaec-49ce-b013-bb84a631b666.png" width="400" />
 
 
 
